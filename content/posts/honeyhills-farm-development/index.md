@@ -1,6 +1,7 @@
 ---
 title: "HoneyHills Farm Development"
-date: 2020-06-08T08:06:25+06:00
+date: 2025-07-24T00:00:00-07:00
+hero: honeyhill.jpg
 description: HoneyHills Farm Development
 menu:
   sidebar:
@@ -11,10 +12,8 @@ tags: ["Structural Engineering", "Project Management"]
 categories: ["Structural Engineering", "Project Management"]
 ---
 
-# HoneyHills Farm Development
-
 ## Address
-4515, 4520, 4535, 4540, 4545, 4550, 4555, 4560, 4565, 4570, 4575 SW 59th Ave Portland, OR
+[4515, 4520, 4535, 4540, 4545, 4550, 4555, 4560, 4565, 4570, 4575 SW 59th Ave Portland, OR](https://www.google.com/maps/place/4575+SW+59th+Ave,+Portland,+OR+97221)
 
 ## Project Dates
 July 2021 - May 2022

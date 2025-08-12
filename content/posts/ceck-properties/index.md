@@ -1,6 +1,7 @@
 ---
 title: "Ceck Properties"
-date: 2020-06-08T08:06:25+06:00
+date: 2025-07-24T00:00:00-07:00
+hero: ceck.jpg
 description: Ceck Properties
 menu:
   sidebar:
@@ -11,10 +12,8 @@ tags: ["Structural Engineering", "Project Management"]
 categories: ["Structural Engineering", "Project Management"]
 ---
 
-# Ceck Properties
-
 ## Address
-1503 Fairway Drive Washougal, WA 98761
+[1503 Fairway Drive Washougal, WA 98761](https://www.google.com/maps/place/1503+Fairway+Dr,+Washougal,+WA+98671)
 
 ## Project Dates
 Dec 2017 - Sept 2018

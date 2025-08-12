@@ -1,6 +1,6 @@
 ---
 title: "Hale"
-date: 2020-06-08T08:06:25+06:00
+date: 2025-07-24T00:00:00-07:00
 description: Hale
 menu:
   sidebar:
@@ -11,10 +11,8 @@ tags: ["Structural Engineering", "Project Management"]
 categories: ["Structural Engineering", "Project Management"]
 ---
 
-# Hale
-
 ## Address
-3262 Chapin Drive Portland, OR
+[3262 Chapin Drive Portland, OR](https://www.google.com/maps/place/3262+NW+Chapin+Dr,+Portland,+OR+97229)
 
 ## Project Dates
 June 2017 - July 2020

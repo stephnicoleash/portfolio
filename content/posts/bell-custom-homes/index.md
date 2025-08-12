@@ -1,6 +1,6 @@
 ---
 title: "Bell Custom Homes"
-date: 2020-06-08T08:06:25+06:00
+date: 2025-07-24T00:00:00-07:00
 description: Bell Custom Homes
 menu:
   sidebar:
@@ -11,10 +11,8 @@ tags: ["Structural Engineering", "Project Management"]
 categories: ["Structural Engineering", "Project Management"]
 ---
 
-# Bell Custom Homes
-
 ## Address
-1327 Constellation Dr. Bend OR 97703
+[1327 Constellation Dr. Bend OR 97703](https://www.google.com/maps/place/1327+Constellation+Dr,+Bend,+OR+97703)
 
 ## Project Dates
 Sept 2022

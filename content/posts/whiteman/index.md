@@ -1,6 +1,7 @@
 ---
 title: "Whiteman"
-date: 2020-06-08T08:06:25+06:00
+date: 2025-07-24T00:00:00-07:00
+hero: whiteman.webp
 description: Whiteman
 menu:
   sidebar:
@@ -11,10 +12,8 @@ tags: ["Structural Engineering", "Project Management"]
 categories: ["Structural Engineering", "Project Management"]
 ---
 
-# Whiteman
-
 ## Address
-5185 Carman Dr. Lake Oswego, OR
+[5185 Carman Dr. Lake Oswego, OR](https://www.google.com/maps/place/5185+Carman+Dr,+Lake+Oswego,+OR+97035)
 
 ## Project Dates
 Jan 2018 - Jan 2019

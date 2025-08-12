@@ -1,6 +1,7 @@
 ---
 title: "Zale"
-date: 2020-06-08T08:06:25+06:00
+date: 2025-07-24T00:00:00-07:00
+hero: zale.jpg
 description: Zale
 menu:
   sidebar:
@@ -11,10 +12,8 @@ tags: ["Structural Engineering", "Project Management"]
 categories: ["Structural Engineering", "Project Management"]
 ---
 
-# Zale
-
 ## Address
-6064 SW Taylor St Portland, OR
+[6064 SW Taylor St Portland, OR](https://www.google.com/maps/place/6064+SW+Taylor+St,+Portland,+OR+97221)
 
 ## Project Dates
 March 2020 - Sept 2020

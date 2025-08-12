@@ -1,6 +1,7 @@
 ---
 title: "Couch Street Townhomes"
-date: 2020-06-08T08:06:25+06:00
+date: 2025-07-24T00:00:00-07:00
+hero: couch_street_townhomes.jpg
 description: Couch Steet Townhomes
 menu:
   sidebar:
@@ -11,10 +12,8 @@ tags: ["Structural Engineering", "Project Management"]
 categories: ["Structural Engineering", "Project Management"]
 ---
 
-# Couch Street Townhomes
-
 ## Address
-5232, 5240, 5248, 5256, 5264, 5272, 5280, 5288 NE Couch St Portland OR 97213
+[5232, 5240, 5248, 5256, 5264, 5272, 5280, 5288 NE Couch St Portland OR 97213](https://www.google.com/maps/place/5288+NE+Couch+St,+Portland,+OR+97215)
 
 ## Project Dates
 May 2016 - July 2018

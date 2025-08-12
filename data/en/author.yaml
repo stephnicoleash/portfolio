@@ -1,0 +1,17 @@
+# some information about you
+name: "Stephanie Ashley"
+nickname: "Stephanie"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/Stephanie.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "stephnicoleash@gmail.com"
+  github: stephnicoleash
+
+# some summary about what you do
+summary:
+  - I am a Structural Engineer
+  - I am a Project Manager
+  - I love organizing
+  - I love to work with some fun projects

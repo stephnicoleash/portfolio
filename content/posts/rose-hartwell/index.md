@@ -1,6 +1,6 @@
 ---
 title: "Rose Hartwell"
-date: 2020-06-08T08:06:25+06:00
+date: 2025-07-24T00:00:00-07:00
 description: Rose Hartwell
 menu:
   sidebar:
@@ -11,10 +11,8 @@ tags: ["Structural Engineering", "Project Management"]
 categories: ["Structural Engineering", "Project Management"]
 ---
 
-# Rose Hartwell
-
 ## Address
-13977 SW Skyline Blvd
+[13977 SW Skyline Blvd, Portland, OR]()
 
 ## Project Dates
 Jan 2017- Sept 2018
