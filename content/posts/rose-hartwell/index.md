@@ -12,7 +12,7 @@ categories: ["Structural Engineering", "Project Management"]
 ---
 
 ## Address
-[13977 SW Skyline Blvd, Portland, OR]()
+13977 SW Skyline Blvd, Portland, OR
 
 ## Project Dates
 Jan 2017- Sept 2018
